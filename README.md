@@ -1,3 +1,3 @@
 # first-project
 first git repo 
-author - srishti pundeer 
+author - srishti pundeer (upes)
